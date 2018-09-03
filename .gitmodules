@@ -1,3 +1,6 @@
 [submodule "themes/local-ea-template"]
 	path = themes/local-ea-template
 	url = https://github.com/NicoleSous/local-ea-template.git
+[submodule "themes/local-ea-template-"]
+	path = themes/local-ea-template-
+	url = https://github.com/NicoleSous/local-ea-template-
