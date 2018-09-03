@@ -1,3 +1,6 @@
 [submodule "themes/local-ea-template-"]
 	path = themes/local-ea-template-
 	url = https://github.com/eazurich/local-ea-template/tree/48520bc963ab2ee6bfa6016bf3f89f3e409294e7.git
+[submodule "themes/local-ea-template"]
+	path = themes/local-ea-template
+	url = https://github.com/eazurich/local-ea-template
